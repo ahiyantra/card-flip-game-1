@@ -1,0 +1,2 @@
+# card-flip-game-1
+a basic card flipping game, made using unity 2020 on windows, produced for the sake of practicing unity development skills; the demonstration is available as a recording on youtube (https://www.youtube.com/watch?v=PQVrOqpqb_Q) [music credits - "SergeQuadrado"]
